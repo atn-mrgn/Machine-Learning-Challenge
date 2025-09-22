@@ -1,0 +1,40 @@
+# Fichiers volumineux exclus (>20Mo)
+Alvin-Smart-Money-Management-Classification-Challenge/Machine-Learning-with-Python-master.zip
+DataDrive2030-Early-Learning-Predictors-Challenge/Train.csv
+Modified_Yolo/archive.zip
+new compete/SampleSubmission (1).csv
+new compete/Train (3).csv
+new compete/TrainTargets.csv
+NFT-Price-Prediction -Challenge/nfts_train.csv
+NFT-Price-Prediction -Challenge/test_df.csv
+NFT-Price-Prediction -Challenge/train_df.csv
+Projet Crypto/g-research-crypto-forecasting.zip
+Projet Crypto/supplemental_train.csv
+Projet Crypto/train.csv
+Projet Crypto/scinet/SCINet-master/crypto_data/Bitcoin.csv
+Projet Crypto/scinet/SCINet-master/crypto_data/Crypto-USD-2017-01-01.csv
+Projet Crypto/scinet/SCINet-master/crypto_data/supplemental_train.csv
+Projet Crypto/scinet/SCINet-master/saved_models_with_logs/BTC-USD-GR/12H37M 29-Jan-2022/logs/train/events.out.tfevents.1643456306.DESKTOP-71S1FS3.5648.8.v2
+Projet Feedback Prizes/dataset.zip
+Projet Feedback Prizes/feedback-prize-2021.zip
+Projet Feedback Prizes/Fidle.zip
+Projet Feedback Prizes/train.csv
+Projet Feedback Prizes/Name Entity Recognition/archive.zip
+Projet Feedback Prizes/Name Entity Recognition/ner.csv
+Projet Feedback Prizes/Name Entity Recognition/ner_dataset.csv
+UmojaHack23/Beginner/Test (1).csv
+UmojaHack23/Beginner/Train (3).csv
+_data/Crime_Data_from_2020_to_Present.csv
+*.csv
+*.zip
+*.pdf
+*.xlsx
+# Ignorer tous les fichiers d'image
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.txt
